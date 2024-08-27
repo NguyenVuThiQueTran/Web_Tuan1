@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box ; /*canh giua*/
+    margin: 0 auto ;
+    
+}
+a {
+    color: blue;
+    font-weight: bold; /* Đổi kiểu chữ liên kết thành chữ đậm */
+}
+div{
+    margin-top: 10px;
+    font-size: 15px;
+    width: 600px;
+    padding: 10px;
+    border: 1px solid black;
+}
+img {
+    display: block; /* Loại bỏ khoảng cách dưới ảnh */
+    margin: 0; /* Loại bỏ margin để ảnh không bị lệch */
+}
+hr {
+    margin: 10px 0; /* Khoảng cách giữa đường kẻ và các phần tử khác */
+}

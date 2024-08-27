@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box ; /*canh giua*/
+    margin: 0 auto ;
+    
+}
+div {
+    font-size: 10px;
+    width: 600px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+
+}
+.section {
+    margin-bottom: 15px;
+}
+.section img {
+    display: block;
+    margin: 0;
+}
+
+
+hr {
+    margin: 5px 0; 
+    border: 1px solid gainsboro ;
+}
+p {
+color: rgba(11, 10, 10, 0.992); 
+padding-left: 50px;
+}

@@ -1,0 +1,40 @@
+.roman-list {
+    list-style-type: upper-roman; /* Sử dụng số La Mã in hoa */
+    
+}
+h2{
+    
+    font-size: 15px;
+    margin: 0 auto 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+*{
+    box-sizing: border-box ; /*canh giua*/
+    margin: 0 auto ;
+    
+}
+div{
+    padding-bottom: 0px; /*cách vào bên trong*/
+    margin-top: 10px;
+
+    font-size: 10px;
+    width: 700px;
+    border: 1px solid black;
+    padding: 30px 10px 10px 3px;
+}
+img {
+    display: block; 
+    margin: 0;
+}
+hr {
+    margin: 10px 0; 
+}
+img + p {
+    margin-top: 30px;
+}
